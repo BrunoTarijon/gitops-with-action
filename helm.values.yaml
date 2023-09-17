@@ -1,0 +1,4 @@
+app:
+  name: simple-api
+  port: 8080
+
